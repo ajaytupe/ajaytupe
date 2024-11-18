@@ -46,26 +46,25 @@
 ---
 
 ## 📫 How to Reach Me
-- **LinkedIn:** [Ajay Tupe LinkedIn Profile](https://www.linkedin.com/in/ajay-tupe/)  
-- **Email:** [Your Email Address](mailto:your-email@example.com)  
-- **Portfolio:** [Your Portfolio](https://your-portfolio-link.com)  
+- **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/ajay-tupe/)  
+- **Email:** [My Email Address](mailto:ajaytupe1006@gmail.com)  
+- **Portfolio:** [My Portfolio](https://ajaytupe.github.io/Portfolio/)  
 
 ---
 
 ## 🎯 2025 Goals
 - ✅ Land a job where I contribute to impactful Salesforce projects  
-- ✅ Build expertise in **Salesforce AI**  
+- ✅ Build expertise in **Salesforce AI and CPQ**  
 
 ---
 
 ## 🔗 Featured Projects
 ### 1. **Stock Guardian**  
 🚀 Automated inventory management using Salesforce.  
-🔗 [View Project](https://github.com/yourgithub/stockguardian)
+
 
 ### 2. **Diet & Exercise App**  
 💡 A personalized app for diet and fitness suggestions.  
-🔗 [View Project](https://github.com/yourgithub/diet-exercise-app)
 
 ---
 

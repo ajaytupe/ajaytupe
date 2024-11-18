@@ -23,10 +23,13 @@
 ---
 
 ## 🏆 Certifications & Skills  
-![Salesforce Badge](https://img.shields.io/badge/Salesforce-Administrator-blue?logo=Salesforce)  
-![Platform App Builder](https://img.shields.io/badge/Salesforce-Platform_App_Builder-blue?logo=Salesforce)  
-![ISTQB](https://img.shields.io/badge/ISTQB-Certified-orange?logo=testing)  
-![Mulesoft Developer](https://img.shields.io/badge/Mulesoft-Developer-blue?logo=mulesoft)  
+
+### Salesforce Certifications
+- ![Salesforce Administrator](https://img.shields.io/badge/Salesforce-Administrator-blue?logo=Salesforce)  
+- ![Platform Developer I](https://img.shields.io/badge/Salesforce-Platform_Developer_I-blue?logo=Salesforce)  
+- ![Platform App Builder](https://img.shields.io/badge/Salesforce-Platform_App_Builder-blue?logo=Salesforce)  
+
+---
 
 ### Tools & Technologies
 - **CRM Platforms:** Salesforce Sales Cloud, Service Cloud  

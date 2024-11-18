@@ -1,6 +1,7 @@
-                              # Welcome 👋, I'm Ajay    
+   **Welcome 👋, I'm Ajay**    
+---
             **A Salesforce Enthusiast 💻 with Business Acumen 📊**
-
+---
 - 👨‍💻 I'm looking for **Salesforce Developer/Admin jobs**
 - 🛠️ I am Skilled ⚙️ & Certified 🏅 in:
   - **Salesforce Clouds:** Sales, Service, Data, Experience Cloud.

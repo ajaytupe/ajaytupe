@@ -46,7 +46,7 @@
 ---
 
 ## 📫 How to Reach Me
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)  
+- **LinkedIn:** [Ajay Tupe LinkedIn Profile](https://www.linkedin.com/in/ajay-tupe/)  
 - **Email:** [Your Email Address](mailto:your-email@example.com)  
 - **Portfolio:** [Your Portfolio](https://your-portfolio-link.com)  
 

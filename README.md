@@ -1,6 +1,6 @@
 <div align="center">
 
-# Welcome 👋, I'm Ajay Tupe
+# Hello 👋, I'm Ajay Tupe
 
 
 **🌟 A Salesforce Enthusiast 💻 with Business Acumen 📊**  

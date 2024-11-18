@@ -39,7 +39,8 @@
 ---
 
 ## 🌱 What I'm Currently Learning
-- **Salesforce AI Associate**  
+- **Salesforce AI Associate and AI Specialist**  
+- **Salesforce JavaScript Certification**  
 - Exploring **Information Systems** and **Advanced Apex**  
 
 ---

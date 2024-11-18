@@ -1,5 +1,5 @@
-# Welcome 👋, I'm Ajay    
-**A Salesforce Enthusiast 💻 with Business Acumen 📊**
+                              # Welcome 👋, I'm Ajay    
+            **A Salesforce Enthusiast 💻 with Business Acumen 📊**
 
 - 👨‍💻 I'm looking for **Salesforce Developer/Admin jobs**
 - 🛠️ I am Skilled ⚙️ & Certified 🏅 in:

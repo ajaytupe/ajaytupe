@@ -25,9 +25,12 @@
 ## 🏆 Certifications & Skills  
 
 ### Salesforce Certifications
-- ![Salesforce Administrator](https://img.shields.io/badge/Salesforce-Administrator-blue?logo=Salesforce)  
-- ![Platform Developer I](https://img.shields.io/badge/Salesforce-Platform_Developer_I-blue?logo=Salesforce)  
-- ![Platform App Builder](https://img.shields.io/badge/Salesforce-Platform_App_Builder-blue?logo=Salesforce)  
+- 🎓 [**Salesforce Administrator**](https://drive.google.com/link-to-admin-cert)  
+  <small>Issued by Salesforce | ✅ Certified</small>
+- 🛠️ [**Platform Developer I**](https://drive.google.com/link-to-dev1-cert)  
+  <small>Issued by Salesforce | ✅ Certified</small>
+- 📚 [**Platform App Builder**](https://drive.google.com/link-to-appbuilder-cert)  
+  <small>Issued by Salesforce | ✅ Certified</small>
 
 ---
 

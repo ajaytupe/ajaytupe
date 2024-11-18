@@ -60,11 +60,7 @@
 
 ## 🔗 Featured Projects
 ### 1. **Stock Guardian**  
-🚀 Automated inventory management using Salesforce.  
-
-
-### 2. **Diet & Exercise App**  
-💡 A personalized app for diet and fitness suggestions.  
+🚀 Automated inventory management using Salesforce.   
 
 ---
 

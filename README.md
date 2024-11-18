@@ -1,6 +1,10 @@
-# Welcome 👋, I'm Ajay  
-**🌟 A Salesforce Enthusiast 💻 with Business Acumen 📊**  
+<div align="center">
 
+# Welcome 👋, I'm Ajay
+
+
+**🌟 A Salesforce Enthusiast 💻 with Business Acumen 📊**  
+</div>
 ---
 
 ## 🚀 About Me

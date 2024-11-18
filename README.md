@@ -26,8 +26,8 @@
 
 ### Salesforce Certifications
 - 🎓 [**Salesforce Administrator**](https://drive.google.com/file/d/1IeWPYWitmNufWJFm9eYjdbpfCucRr3el/view?usp=drive_link)  
-- 🛠️ [**Platform Developer I**](https://drive.google.com/link-to-dev1-cert)  
-- 📚 [**Platform App Builder**](https://drive.google.com/link-to-appbuilder-cert)  
+- 🛠️ [**Platform Developer I**](https://drive.google.com/file/d/15xTOQosGCMu6o2GhH3F6blPLaWZf_1pp/view?usp=drive_link)  
+- 📚 [**Platform App Builder**](https://drive.google.com/file/d/1osXb5VMNigA1xU-9wUUUvNMDhJnPNITk/view?usp=drive_link)  
 
 ---
 
